@@ -2,11 +2,11 @@
 
 [PostCSS] plugin for replacing the default [antd] colors with css variables.
 
-Be able to to change ant design theme in runtime see [CSS Change Variables With JavaScript]
+Be able to to change ant design theme in realtime! see [CSS Change Variables With JavaScript]
 
 ## Demo
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"  height="140" />
+<img src="https://github.com/anaslaham/ant-post-css-theme/raw/master/images/Demo.gif"  height="140" />
 
 ## Installation
 

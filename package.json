@@ -1,8 +1,14 @@
 {
   "name": "ant-post-css-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A post-css plugin that can replace all ant design colors with css variables",
   "main": "index.js",
+  "keywords": [
+    "antd",
+    "theme",
+    "postcss",
+    "color"
+  ],
   "repository": "https://github.com/anaslaham/ant-post-css-theme.git",
   "author": "Anas LA",
   "license": "MIT",
